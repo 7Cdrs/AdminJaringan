@@ -58,7 +58,7 @@ Total Durasi: 4.8469 - 0.9113 = 3.9356 detik.
 
 Transmission Control Protocol (TCP) adalah protokol transport yang memastikan komunikasi data antara dua perangkat berlangsung secara andal dan berurutan. TCP bekerja dengan membangun koneksi sebelum data dikirim dan memastikan data sampai dengan benar.
 <br><br>
-![](assets/tcp.png)
+![](assets/TCP.png)
 <br><br>
 
 ---
