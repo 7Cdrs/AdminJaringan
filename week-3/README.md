@@ -153,13 +153,11 @@ Salah satu package manager yang sering digunakan adalah APT. APT package manager
 
 Software adalah sebuah alat yang ada pada sistem operasi debian yang dapat digunakan untuk mengelola paket. Alat ini berbasis GUI sehingga lebih mudah digunakan oleh orang awam.
 
-<img src="assets/pm-software.png" alt="asset">
 
 #### Discover: KDE package Manager
 
 Discover merupakan package manager yang berbasis K Desktop Environment sehingga menyediakan antarmuka tampilan grafis (GUI) yang intuitif dan kaya fitur. KDE memungkinkan pengguna untuk berinteraksi dengan sistem operasi melalui elemen visual seperti jendela, ikon, menu, dan panel.
 
-<img src="assets/pm-discover.png" alt="asset">
 
 Dengan menggunakan ‘Discover’ memungkinkan pengguna untuk melakukan pencarian, instalasi, pembaruan dan menghapus paket yang ada pada debian. Selain itu pengguna juga dapat melakukan modifikasi repositori dengan menggunakan alat ini.
 
@@ -167,7 +165,6 @@ Dengan menggunakan ‘Discover’ memungkinkan pengguna untuk melakukan pencaria
 
 Synaptic adalah salah satu package manager yang dapat menampilkan informasi lebih detail tentang paket-paket yang terinstal.
 
-<img src="assets/pm-sypnatic.png" alt="asset">
 
 Terdapat 4 area dalam tampilan synaptic yang memiliki kegunaan yang berbeda-beda. Pada panel kiri dapat digunakan mengurutkan dan memilih paket yang akan dikelola. Panel tengah menampilkan informasi paket dan dibagian bawah terdapat deskripsi tentang paket. Logo debian pada paket menandakan bahwa paket tersebut gratis. Langkah pertama ketika akan menggunakan synaptic adalah menekan tombol reload untuk memperbarui semua informasi metadata. Seperti paket pada umumnya pengguna dapat melakukan pencarian, instalasi, pembaruan, menghapus paket serta mengelola repositori.
 
@@ -175,7 +172,6 @@ Terdapat 4 area dalam tampilan synaptic yang memiliki kegunaan yang berbeda-beda
 
 Ketika pengguna akan melakukan instalasi paket dari sumber eksternal maka paket yang bisa diinstal adalah yang mempunyai ekstensi .deb. Ada beberapa cara dalam melakukan instalasi paket format .deb, salah satunya menggunakan Gdebi. Berikut contoh tampilan jika instalasi paket dengan Gdebi.
 
-<img src="assets/pm-gdebi.png" alt="asset">
 
 #### Instalasi paket dengan Dpkg
 
